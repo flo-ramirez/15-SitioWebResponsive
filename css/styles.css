@@ -1,0 +1,15 @@
+@media (min-width: 769px) and (max-width: 1366px) {
+     .search  {
+        padding-left: 39rem;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+    
+}
+
+@media (min-width: 320px) and (max-width: 568px) {
+    
+}
+
+
